@@ -4,6 +4,11 @@
   -> Then print ans and will saw that your exact answer;
 */
 
+/* If we will want finding the missing number in 1 to n  then applying this same process.
+   EX:  n = 5;
+        a[n-1] = {1 5 4 2};
+        Find missing number, Here missing number is 3;
+  */
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
